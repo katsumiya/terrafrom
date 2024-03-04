@@ -1,0 +1,4 @@
+# terrafrom-related
+.terrafrom
+.terrafrom.lock
+terrafrom.tfstate
